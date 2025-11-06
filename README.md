@@ -1,4 +1,8 @@
-![ic_launcher_foreground](https://github.com/user-attachments/assets/b3f122ef-b980-450d-9986-ac7268ef0c18)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/b3f122ef-b980-450d-9986-ac7268ef0c18"
+    width="96">
+</p>
 
 
 CatCare is a friendly little app that helps you look after your cats. Add your fur friends  with a cute photo, jot down the basics, and set gentle reminders so feeding, grooming, 
